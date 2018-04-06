@@ -6,6 +6,5 @@ Updates made on master on Github before rebase
 
 ## Repository Purpose
 
-This will cause conflicts
-with whatever is on the remote side.
-This was a local edit.
+
+This is a readme file.
