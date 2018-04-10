@@ -12,3 +12,7 @@ This is a readme file.
 
 The purpose of this file is to provide examples of 
 how to use Git and Github
+
+## Getting Started
+
+This is the getting started section.
